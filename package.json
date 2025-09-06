@@ -1,0 +1,20 @@
+{
+  "name": "chat-app",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/BonfaceGekara/chat-app#readme",
+  "bugs": {
+    "url": "https://github.com/BonfaceGekara/chat-app/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BonfaceGekara/chat-app.git"
+  },
+  "license": "ISC",
+  "author": "Bonface",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
